@@ -11,7 +11,7 @@ git add . : pasar el contenido de la carpeta de trabajo al area de ensayo.
 
 git commit -m "texto estado proyecto"
 
-git log -oneline para ver los commits
+git log --oneline para ver los commits
 
 git reset --hard numero del commit
 
